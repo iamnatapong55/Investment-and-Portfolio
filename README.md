@@ -6,7 +6,7 @@ The art of finance isn’t about maximizing an investor’s returns in a year. I
 
 ---
 
-## Demonstration of a near real-time interactive stocks application using web scraping tecnique - Power BI
+## Demonstration of a near real-time interactive stocks app using web scraping tecnique - Power BI
 
 ---
 
