@@ -1,6 +1,6 @@
 # Foundation of the Investment-and-Portfolio Analysis
 
-This personal project is aimed to explore how Python can be applied in the world of Finance and solve portfolio optimization problems. In this project, I included some of the in-progrress projects as following: 
+This personal project is aimed to explore how Python can be applied in the world of Finance and solve portfolio optimization problems. In this project, I included some of the in-progress projects as follows: 
 
 |  No. | Topic
 | ---- | ------------------------------------------------------|
