@@ -21,7 +21,7 @@ The art of finance isn’t about maximizing an investor’s returns in a year. I
 ---
 
 1) At the Yahoo Finance webpage, go to the target stock and choose the preferable options. Right click at the download button and select copy link address.
-2) On Power BI, "Get Data" and select "Web" then paste the link address to download data.
+2) On the Power BI, "Get Data" and select "Web" then paste the link address to download data.
 3) Create a function from Advanced Editor. 
 
 >![alt text](https://github.com/iamnatapong55/images-storage/blob/main/Editor.jpg?raw=true)
