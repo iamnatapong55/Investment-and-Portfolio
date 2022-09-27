@@ -1,6 +1,16 @@
 # Foundation of the Investment-and-Portfolio Analysis
 
-This personal project is aimed to explore how Python can be applied in the world of Finance and solve portfolio optimization problems. In this project, I included calculating the return of a portfolio, the risk of a security, Portfolio Risk, the Expected Return of a Stock (CAPM) and forecasting Stock Prices Using Monte Carlo Simulation.
+This personal project is aimed to explore how Python can be applied in the world of Finance and solve portfolio optimization problems. In this project, I included some of the in-progrress projects as following: 
+
+|  No. | Topic
+| ---- | ------------------------------------------------------|
+|  1   | Calculating the return of a portfolio                 | 
+|  2   | The risk of a security                                |
+|  3   | Portfolio Risk                                        |
+|  4   | The Expected Return of a Stock (CAPM)                 |
+|  5.  | Forecasting Stock Prices Using Monte Carlo Simulation |
+
+
 
 The art of finance isn’t about maximizing an investor’s returns in a year. It is about making informed decisions that consider both dimensions, risk and return, and optimizing the risk-return combination of an investment portfolio.
 
