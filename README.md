@@ -31,14 +31,14 @@ The art of finance isn’t about maximizing an investor’s returns in a year. I
 >![alt text](https://github.com/iamnatapong55/images-storage/blob/main/Function.jpg?raw=true)
 
 5) Work on an excel spreadsheet to list all the interest stock symbols and import it into the Power BI.
-6) Coonect the custom function with a list of stock tickers.
+6) Connect the custom function with a list of stock tickers.
 
 >![alt text](https://github.com/iamnatapong55/images-storage/blob/main/PullConnect.png?raw=true)
 
-7) Perform data cleaning before finishing up at the Apply & Close.
+7) Perform data cleaning before finishing up at the Apply & Close button.
 
 >![alt text](https://github.com/iamnatapong55/images-storage/blob/main/Clean.png?raw=true)
 
-8) The data fields are ready to build dashboard.
+8) The data fields are ready to build an interactive dashboard.
 
 >![alt text](https://github.com/iamnatapong55/images-storage/blob/main/Product.png?raw=true)
